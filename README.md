@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm glad you're here. 🥑
+
+[1brett.com](https://1brett.com)
 
 <!--
 **01brett/01brett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
